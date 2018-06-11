@@ -2,7 +2,7 @@
   "name": "thesolpalatte",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anupampandit.github.io/thesolpalette/",
+  "homepage": "http://www.thesolpalette.com/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.3.2",
